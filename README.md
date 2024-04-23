@@ -9,4 +9,4 @@ Web development projects including a unit converter that helps interconvert valu
 
 ## Special Thanks
 
-mimo.com for providing these fun project ideas and Cory Kane for support
+mimo.org for providing these fun project ideas and Cory Kane for support
